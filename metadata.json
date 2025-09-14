@@ -1,0 +1,5 @@
+{
+  "name": "Generative Material Studio",
+  "description": "An AI-powered tool for game developers to generate smart, environmentally-reactive materials. Describe a material's transformation (e.g., 'a stone wall that gets mossy over time'), and the studio generates a sequence of textures and procedural shader logic to bring it to life.",
+  "requestFramePermissions": []
+}
